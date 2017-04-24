@@ -1,0 +1,7 @@
+﻿  common_multiple.cpp
+c:\users\ht16a004\documents\visual studio 2012\projects\math\common_multiple\common_multiple.cpp(15): error C2057: 定数式が必要です。
+c:\users\ht16a004\documents\visual studio 2012\projects\math\common_multiple\common_multiple.cpp(15): error C2466: サイズが 0 の配列を割り当てまたは宣言しようとしました。
+c:\users\ht16a004\documents\visual studio 2012\projects\math\common_multiple\common_multiple.cpp(15): error C2133: 'a' : サイズが不明です。
+c:\users\ht16a004\documents\visual studio 2012\projects\math\common_multiple\common_multiple.cpp(17): error C2660: 'input' : 関数に 0 個の引数を指定できません。
+c:\users\ht16a004\documents\visual studio 2012\projects\math\common_multiple\common_multiple.cpp(18): error C2660: 'calculate' : 関数に 0 個の引数を指定できません。
+c:\users\ht16a004\documents\visual studio 2012\projects\math\common_multiple\common_multiple.cpp(25): error C2447: '{' : 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
