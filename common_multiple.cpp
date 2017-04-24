@@ -2,39 +2,43 @@
 #include <iostream>
 using namespace std;
 
-int dif(const int num);
-int input(int a,int b);
+//int dif(const int num);
+double input(double dif[]);
 int calculate(int a,int b);
 
 int main()
 {
+	/*
 	int num;
 
 	dif(num);
+	*/
 
-	int*a =new int[num];
+	const int num=2;
 
-	input(a[num]);
+	double dif[num];
+
+	input(dif[num]);
 	calculate();
-
-	delete[] a;
 
 	cin.get();
 	return 0;
 }
 
+/*
 int dif(int num)
 {
 	cout<<"Œö”{”‚ğ‹‚ß‚é—v‘f”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢F ";
 	cin>>num;
 	return num;
 }
+*/
 
-int input(int a[num])
+double input(double dif[])
 {
 	cout<<"1‚Â‚ß‚Ì®”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢F ";
-	cin>>a;
+	cin>>dif[0];
 	cout<<"2‚Â‚ß‚Ì®”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢F ";
-	cin>>b;
-	return a,b;
+	cin>>dif[1];
+	return dif[0],dif[1];
 }
