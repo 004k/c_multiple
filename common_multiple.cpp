@@ -1,3 +1,5 @@
+//test comments
+
 // common_multiple.cpp
 #include <iostream>
 using namespace std;
